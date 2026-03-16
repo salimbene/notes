@@ -251,7 +251,7 @@ Cuando logran ser reversibles → se transforman en **esquemas operatorios** (op
   
 #Piaget, Jean 1896 - 1980 #Suiza  
   
-![Nociones centrales de la Psicología Genética](Attachments/E9727E64-F485-401E-B408-3FD106FB5A34.png)  
+![Nociones centrales de la Psicología Genética](../../../Archivo comprimido/Attachments/E9727E64-F485-401E-B408-3FD106FB5A34.png)  
   
 ==Clase 5 09/05==  
   

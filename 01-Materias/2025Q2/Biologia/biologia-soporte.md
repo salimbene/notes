@@ -170,7 +170,7 @@ La biología moderna muestra un **sentido sin sujeto**, una semiótica natural: 
 #Meillassoux, Quentin 1967 - #Francia  
 #Thom, René Fréderic 1923 - 2002 #Francia  
 #Newton, Isaac 1642 - 1727 #Inglaterra  
-# ![Agendo](Attachments/AF7C2DD3-F534-434C-A0E2-D4E84C297643.png)  
+# ![Agendo](../../../Archivo comprimido/Attachments/AF7C2DD3-F534-434C-A0E2-D4E84C297643.png)  
   
 ## ==Clase 4 08/25==  
 el realismo de #Meillassoux es valido localmente?  

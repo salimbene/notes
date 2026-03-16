@@ -1,5 +1,6 @@
-# #Evangelio de #Juan 1:1–3  
-#biblia #nuevo-testamento #lógos #epistemología #filo   
+# Evangelio de Juan 1:1-3
+
+**Eje:** Logos, Biblia, Nuevo Testamento.  
   
 **Tesis/Idea central:**  
 Identificación del **Logos** como principio divino mediante el cual se origina todo lo creado. Afirma la preexistencia y divinidad del Logos.  

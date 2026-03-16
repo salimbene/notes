@@ -52,5 +52,5 @@ Ejemplo:
 - **Fenómeno local** = el pliegue en un punto de la hoja.  
 - **Forma discreta** = la figura que surge como resultado de esos pliegues.  
   
-![La Crítica de Thom a la Contingencia Absoluta](Attachments/54C1E874-269D-4FF0-944F-D74B2C3F26B6.png)  
-![La Propuesta Semiofísica de Thom](Attachments/AA32CBFD-833A-4121-B3F7-3144F33D5600.png)  
+![La Crítica de Thom a la Contingencia Absoluta](../../../Archivo comprimido/Attachments/54C1E874-269D-4FF0-944F-D74B2C3F26B6.png)  
+![La Propuesta Semiofísica de Thom](../../../Archivo comprimido/Attachments/AA32CBFD-833A-4121-B3F7-3144F33D5600.png)  

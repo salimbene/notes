@@ -32,4 +32,4 @@ Porque ambos quieren describir un **proceso de transformación mediante contradi
   
   
 #Aristoteles   
-![Pero precisamente en virtud de ella es más temible: en el fondo, esa](Attachments/66B41DFF-039F-40DE-9650-C1CEAA8E6250.heic)  
+![Pero precisamente en virtud de ella es más temible: en el fondo, esa](../../Archivo comprimido/Attachments/66B41DFF-039F-40DE-9650-C1CEAA8E6250.heic)  

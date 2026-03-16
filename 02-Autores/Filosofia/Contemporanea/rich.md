@@ -10,4 +10,4 @@ Adrienne Rich explora la maternidad en dos dimensiones: como **experiencia vivid
 La autora denuncia que la maternidad, históricamente, ha sido utilizada para controlar y limitar a las mujeres, presentándola como destino natural y negando su autonomía. Al mismo tiempo, rescata la potencia transformadora de recuperar esa experiencia desde la subjetividad y la acción colectiva.  
   
 #Genero #20252Q #filo  
-![Dibujo](Attachments/FE0979C0-50B0-4492-B0DC-CC834D4FEDE8.png)  
+![Dibujo](../../../Archivo comprimido/Attachments/FE0979C0-50B0-4492-B0DC-CC834D4FEDE8.png)  

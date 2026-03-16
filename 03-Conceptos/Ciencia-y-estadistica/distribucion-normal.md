@@ -1,9 +1,8 @@
-#DistribuciónNormal #filo** **  
-#DistribuciónNormal #filo** **  
-#DistribuciónNormal #filo** **  
-#estadistica  
-  
-Es una distribución de probabilidad continua que ****describe cómo se distribuyen ciertos datos alrededor de un valor medio (promedio).****  
+# Distribución normal
+
+**Área:** estadística.
+
+Es una distribución de probabilidad continua que **describe cómo se distribuyen ciertos datos alrededor de un valor medio (promedio)**.  
   
 **Forma**  
 - Tiene forma de **campana simétrica** (también llamada *curva de Gauss*).  

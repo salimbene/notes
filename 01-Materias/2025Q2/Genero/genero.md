@@ -50,7 +50,7 @@
   
 julietamass@gmail.com  
   
-![Guido Salimbene](Attachments/A53DE398-7952-4B1D-9DCA-0417986338F5.heic)  
+![Guido Salimbene](../../../Archivo comprimido/Attachments/A53DE398-7952-4B1D-9DCA-0417986338F5.heic)  
   
   
 **==Clase 3 - 08/29==**  
@@ -65,7 +65,7 @@ julietamass@gmail.com
   
 *Vindicación de los derechos de la mujer* (1792).  
   
-![Child mortality rate](Attachments/D731C8B6-53EF-41C5-A7A8-F957ACE1B170.heic)  
+![Child mortality rate](../../../Archivo comprimido/Attachments/D731C8B6-53EF-41C5-A7A8-F957ACE1B170.heic)  
   
 [Child mortality rate](https://ourworldindata.org/grapher/child-mortality?time=earliest..1860)  
   
@@ -462,4 +462,4 @@ El compilado de FLACSO aporta herramientas para la intervención social; Connell
 En conjunto, los tres textos nos ayudan a pensar cómo desarmar el modelo de masculinidad hegemónica y abrir camino a nuevas formas de ser varón basadas en la empatía, el cuidado y la igualdad.”  
   
   
-![Dibujo](Attachments/6E89CDAC-6EF1-4AE0-8677-9C39AF662EB8.png)  
+![Dibujo](../../../Archivo comprimido/Attachments/6E89CDAC-6EF1-4AE0-8677-9C39AF662EB8.png)  

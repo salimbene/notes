@@ -14,4 +14,4 @@
 - Su obra marca el inicio del feminismo ilustrado y será retomada en siglos posteriores (por ejemplo, por John Stuart Mill).  
   
 **Dato personal**: Murió a los 38 años, pocos días después de dar a luz a su hija **Mary Shelley**, la futura autora de *Frankenstein*.  
-![Dibujo](Attachments/861746D6-E4AF-4F3D-9DA2-6AA67A6DBE57.png)  
+![Dibujo](../../../Archivo comprimido/Attachments/861746D6-E4AF-4F3D-9DA2-6AA67A6DBE57.png)  

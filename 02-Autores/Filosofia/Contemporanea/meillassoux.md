@@ -47,4 +47,4 @@ En síntesis
 👉 Por eso su corriente se llama realismo especulativo: una filosofía que especula racionalmente sobre un mundo real independiente de la mente.  
 #   
   
-![Implicaciones para los Enunciados Archifósiles](Attachments/819E1983-1247-4904-AEAD-9D74762D8EF5.png)  
+![Implicaciones para los Enunciados Archifósiles](../../../Archivo comprimido/Attachments/819E1983-1247-4904-AEAD-9D74762D8EF5.png)  

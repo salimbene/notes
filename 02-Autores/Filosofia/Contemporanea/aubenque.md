@@ -20,7 +20,7 @@
   
   
   
-![I esos dos argumentos se expresa con mucha claridad en un texto](Attachments/CCB3845C-E557-42AA-87AE-F603FEADADE1.heic)  
+![I esos dos argumentos se expresa con mucha claridad en un texto](../../../Archivo comprimido/Attachments/CCB3845C-E557-42AA-87AE-F603FEADADE1.heic)  
   
   
 #filo  

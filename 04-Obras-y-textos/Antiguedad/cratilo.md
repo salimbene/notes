@@ -1,4 +1,6 @@
-#Crátilo** #Diálogo** #Platón  (427–347 a. C.)  
+# Crátilo
+
+**Diálogo de Platón.**  
 El origen y la corrección de los nombres (*orthótes tôn onomátôn*).  
   
 ### ✨ Síntesis final para estudio  
@@ -22,10 +24,9 @@ El origen y la corrección de los nombres (*orthótes tôn onomátôn*).
 - El **dialéctico** es quien verifica si el nombre corresponde a la cosa.  
 - Crítica: aunque los nombres tengan cierta corrección o adecuación, **ningún nombre puede captar la esencia última de lo real**.  
   
-###   
 ### Problemas destacados  
 - **Instrumentalidad del lenguaje**: El lenguaje es un instrumento (*organon*) para comunicar y conocer, pero **no garantiza el acceso a la verdad**.  
-- **Limitaciones de los nombres: **Incluso si los nombres fuesen correctos, sería un error confiar en ellos como vía única hacia la realidad.  
+- **Limitaciones de los nombres:** Incluso si los nombres fuesen correctos, sería un error confiar en ellos como vía única hacia la realidad.  
 - **Teoría de las Ideas (implícita):** La verdadera captación de la realidad no se da a través de las palabras, sino del **intelecto (noûs)** que accede a las **Ideas o Formas**. El lenguaje puede confundir, porque participa de lo sensible y cambiante, mientras que las Ideas son inmutables.  
   
 ### Conclusión  
@@ -54,6 +55,3 @@ El origen y la corrección de los nombres (*orthótes tôn onomátôn*).
 - Es quien **usa los nombres correctamente** y comprueba si se ajustan a la realidad.  
 - Es el **verdadero juez** de los nombres, porque a través de la dialéctica puede determinar si el lenguaje refleja adecuadamente el ser.  
 - En última instancia, la **dialéctica** es el camino hacia el conocimiento de las Ideas, más allá de las palabras.  
-  
-  
-#filo  
